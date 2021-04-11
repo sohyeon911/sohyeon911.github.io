@@ -184,7 +184,7 @@ figure.effect-oscar:hover p {
 	opacity: 1;
 	-webkit-transform: scale(1);
 	transform: scale(1);
-	color:#fff;+++++++
+	color:#fff;
 }
 
 figure.effect-oscar:hover figcaption {
@@ -299,7 +299,7 @@ p {
 }
 
 .navStyle ul li:first-child {
-	/*margin:0px;*/;
+	/*margin:0px;*/
 }
 
 .navStyle ul li:last-child {
@@ -542,7 +542,7 @@ div#main-nav {
 
 #service {
     padding: 60px 0px;
-    background: #F74D4D;
+    background: #91e0ff;
 }
 #service h2{
   color: #fff;
