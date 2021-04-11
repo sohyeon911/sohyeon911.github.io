@@ -259,7 +259,7 @@ p {
 	
     font-size: 28px;
     line-height: 50px;
-    color: #FF6C71;
+    color: #91e0ff;
 }
 
 .res-nav_click {
@@ -320,12 +320,12 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #ED5441;
+    color: #91e0ff;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    color: #ED5441;
+    color: #91e0ff;
     background-color: transparent;
 }
 
@@ -335,7 +335,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #F74D4D;
+    color: #91e0ff;
     background-color: transparent;
     border-radius: 4px;
 }
@@ -343,7 +343,7 @@ p {
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
     text-decoration: none;
-    color: #ED5441;
+    color: #91e0ff;
     background-color: transparent;
 }
 
@@ -418,7 +418,7 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #ED5441;
+    background: #91e0ff;
     position: relative; 
     background: url('../img/main2.jpg') no-repeat;
 	background-size: cover; 
@@ -513,13 +513,13 @@ a.read_more{
 }
 a.read_more2:hover, a.read_more:hover {
     background: #FFFFFF;
-    color: #F74C4C;
+    color: #91e0ff;
     border: 1px solid #FFFFFF;
 }
 a.read_more:hover {
     background: #fff;
-    color: #ED5441;
-    border: 1px solid #ED5441;
+    color: #91e0ff;
+    border: 1px solid #91e0ff;
 }
 
 div#main-nav {
