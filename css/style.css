@@ -25,6 +25,7 @@ img {
 a, a:hover, a:active {
     outline: 0px !important;
 	text-decoration:none;
+    
 }
 .clear {
     clear: both;
@@ -364,7 +365,8 @@ p {
   text-align: center;
 }
 #head {
-  background: #f4f4f4 url(../img/bg_head.jpg) top center;
+  /* background: #f4f4f4 url(../img/golden\ retriever.jpg) top center; */
+  background: #69bcff top center;
   background-size: cover;
   color: #7C7C7C;
   padding: 120px 0;
@@ -2399,4 +2401,5 @@ width: 99%;
 .read_more2{
 display:none;
 }
+
 }
