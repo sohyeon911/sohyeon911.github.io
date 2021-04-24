@@ -422,7 +422,7 @@ p {
 .top_cont_outer {
     background: #91e0ff;
     position: relative; 
-    background: url('../img/main2.jpg') no-repeat;
+    background: url('../img/main\ image.jpg') no-repeat;
 	background-size: cover; 
 }
 
